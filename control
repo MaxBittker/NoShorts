@@ -1,0 +1,9 @@
+Package: com.github.maxbittker.noshorts
+Name: NoShorts
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Removes the Shorts tab and Shorts from feeds in YouTube. Nothing else.
+Maintainer: MaxBittker
+Author: MaxBittker
+Section: Tweaks
+Depends: mobilesubstrate
